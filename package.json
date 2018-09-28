@@ -2,9 +2,9 @@
   "name": "todo-list",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index-new.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node index-new.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
